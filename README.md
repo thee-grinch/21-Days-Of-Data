@@ -134,7 +134,7 @@ Feel free to open an issue or submit a pull request.
 ## 📝 Progress Tracking
 
 Track my journey:
-- **Start Date**: [Your start date]
+- **Start Date**: [To be updated]
 - **Current Day**: Day [X] of 21
 - **Completion Date**: [To be updated]
 
